@@ -3,7 +3,7 @@
 🎓 *Final-year BSc. in Computing student* at the *University of Technology, Jamaica*  
 💻 *Passionate about software development, web applications*, and *learning product ownership principles*  
 🌍 *Experienced in remote team collaboration* and *agile project environments*  
-🔍 *Currently exploring opportunities* in *software development*, *IT support*, *data entry*, or *product management*
+🔍 *Currently exploring opportunities* in *software development*, *IT support*, or *product management*
 
 ---
 

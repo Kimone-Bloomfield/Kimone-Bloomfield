@@ -23,6 +23,8 @@
 *A full-stack application aimed at reducing food waste in urban Kingston by connecting supermarkets with charities.*  
 *Tech:* *.NET Framework* (backend), *ReactJS* (frontend)  
 *Role:* *Lead developer* | *Final-year capstone project*
+🌐 Live Demo: https://sustaineatsfoodrescue.vercel.app/
+🔒 Source code is currently private.
 
 ---
 
